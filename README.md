@@ -1,4 +1,10 @@
 # DuTuyenRoom
-haha internet cafe 3d model go br
+object inspector
 
-Hoang Anh Khoi bu lon cho
+time management 
+
+minimap w directions
+
+noclip (ctrl + F + N for menu)
+
+
